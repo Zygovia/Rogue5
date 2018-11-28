@@ -3,6 +3,8 @@ package com.inte.group4;
 import java.util.ArrayList;
 import java.util.Collections;
 
+//test
+
 public class Player extends Sprite {
     private static final int MAX_INVENTORY_SIZE = 5;
     private ArrayList<Item> inventory;
